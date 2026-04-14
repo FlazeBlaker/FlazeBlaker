@@ -1,50 +1,75 @@
-<h1 align="center">Hi, I'm Jay Pawar</h1>
-<h3 align="center">Backend & Full Stack Developer | Real-Time Systems | AI Applications</h3>
+# Hi, I'm Jay Pawar
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+Backend Engineer focused on building real-time systems and scalable backend architectures.
 
 ---
 
 ## About Me
-I am a Computer Engineering student focused on building real-world backend and full stack systems. I enjoy designing scalable architectures, working on real-time systems, and developing AI-powered applications that solve practical problems. My work includes production-grade platforms involving payment systems, scheduling engines, and event-driven architectures.
 
-Some production repositories are private due to active deployments and security considerations. I am happy to discuss architecture, implementation details, and system design during interviews.
+Backend-focused Computer Engineering student building production-grade systems with Java.
+
+Built and deployed real-world applications including a monetized platform and a local-first desktop system handling bookings, payments, and inventory with event-driven architecture.
+
+Interested in backend systems, real-time processing, and system design.
 
 ---
 
 ## Tech Stack
 
-### Languages
-Java • Python • JavaScript • SQL • C • C++
+**Languages**  
+Java, Python, JavaScript, SQL, C (basic)
 
-### Backend & Systems
-Spring Boot • REST APIs • Event-Driven Architecture • Multithreading • System Design
+**Backend & Systems**  
+Spring Boot, REST APIs, Event-Driven Architecture, Multithreading, System Design
 
-### Frontend
-React • HTML • CSS • Responsive Web Apps
+**Frontend**  
+React, HTML, CSS, Responsive Web Apps
 
-### Cloud & Tools
-Firebase • Git • Linux • Razorpay API • Twilio API
+**Cloud & Tools**  
+Firebase, Git, Linux, Razorpay API, Twilio API
 
 ---
 
-## Live Projects
-https://begyn.in  
-https://acealley.in  
+## Featured Projects
+
+### Axon – Venue Operations Desktop System
+- Local-first desktop system handling bookings, payments, inventory, and notifications  
+- Multi-layer architecture using Electron IPC, services, and SQLite  
+- Offline-first design with cloud sync, backups, and multi-venue support  
+
+---
+
+### AI Social Media Guide – https://begyn.in
+- Full-stack platform with authentication, credit-based usage, and payment integration  
+- Backend handles content workflows, credit management, and async processing  
+- Deployed and used with live billing  
+
+---
+
+### PulseCity – Real-Time City Monitoring Platform
+- Event-driven backend ingesting live data from multiple sources  
+- Real-time state handling and background schedulers  
+- Exposes APIs for continuously updated system metrics  
+
+---
+
+### AceAlley – https://acealley.in
+- High-performance React SPA with optimized media delivery  
+- Reduced load time significantly using image optimization and lazy loading  
+- Built as a responsive PWA with smooth UI interactions  
 
 ---
 
 ## Areas of Interest
-- Scalable Backend Systems
-- Real-Time Scheduling Platforms
-- Event-Driven Architectures
-- AI Integrated Applications
-- Distributed Systems
+
+- Scalable Backend Systems  
+- Real-Time Applications  
+- Event-Driven Architectures  
+- Distributed Systems  
 
 ---
 
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/jay-pawar-4a21b1196  
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/jay-pawar-42b101196  
 Email: jaypawar1025@gmail.com
