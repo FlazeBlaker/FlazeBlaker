@@ -1,16 +1,16 @@
 # Hi, I'm Jay Pawar
 
-Backend Engineer focused on building real-time systems and scalable backend architectures.
+Backend & Full-Stack Engineer focused on building real-time systems and scalable applications.
 
 ---
 
 ## About Me
 
-Backend-focused Computer Engineering student building production-grade systems with Java.
+Backend-focused Computer Engineering student building production-grade systems with Java and full-stack applications using modern web technologies.
 
-Built and deployed real-world applications including a monetized platform and a local-first desktop system handling bookings, payments, and inventory with event-driven architecture.
+Built and deployed real-world systems including a monetized platform and a local-first desktop system handling bookings, payments, and inventory with event-driven architecture.
 
-Interested in backend systems, real-time processing, and system design.
+Interested in backend systems, real-time processing, and scalable application design.
 
 ---
 
@@ -63,6 +63,7 @@ Firebase, Git, Linux, Razorpay API, Twilio API
 ## Areas of Interest
 
 - Scalable Backend Systems  
+- Full-Stack Application Development  
 - Real-Time Applications  
 - Event-Driven Architectures  
 - Distributed Systems  
